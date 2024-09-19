@@ -10,8 +10,8 @@ relative_permalinks: false
 title: Furqan Shaikh
 tagline: 'Developer and Technologist'
 description: 'A personal portfolio and blog by Furqan Shaikh, featuring technology insights and project showcases.'
-url: http://furqanshaikh.github.io
-baseurl: /
+url: http://furqanshaikh.github.io/
+baseurl: http://furqanshaikh.github.io/
 
 
 author:
