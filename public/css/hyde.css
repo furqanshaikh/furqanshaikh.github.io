@@ -34,11 +34,13 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
   }
 }
+
 @media (min-width: 58em) {
   html {
     font-size: 20px;
@@ -59,6 +61,7 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -99,12 +102,7 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-/* Sticky sidebar
- *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
- */
-
+/* Sticky sidebar */
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
@@ -115,7 +113,8 @@ a.sidebar-nav-item:focus {
 }
 
 
-/* Container
+/*
+ * Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
@@ -126,21 +125,32 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+/* For medium screens (tablets) */
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    max-width: 40rem; /* Slightly wider for better use of space */
+    margin-left: 18rem; /* Adjusted margin for balance */
     margin-right: 2rem;
   }
 }
 
+/* For large screens (desktops) */
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    max-width: 50rem; /* Wider for large screens */
+    margin-left: 20%;  /* Use percentage for a more flexible layout */
+    margin-right: 10%; /* Equal margin on both sides */
   }
 }
 
+/* For extra-large screens (ultrawide monitors) */
+@media (min-width: 80em) {
+  .content {
+    max-width: 60rem; /* Even wider for large screens */
+    margin-left: 15%; /* Reduce left margin to make better use of screen space */
+    margin-right: 15%;
+  }
+}
 
 /*
  * Reverse layout
@@ -167,12 +177,10 @@ a.sidebar-nav-item:focus {
 }
 
 
-
 /*
  * Themes
  *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
+ * Optional themes to color the sidebar and links within blog posts.
  */
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
