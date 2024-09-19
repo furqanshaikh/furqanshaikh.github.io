@@ -1,0 +1,27 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+relative_permalinks: false
+
+# Setup
+title: Furqan Shaikh
+tagline: 'Developer and Technologist'
+description: 'A personal portfolio and blog by Furqan Shaikh, featuring technology insights and project showcases.'
+url: http://furqanshaikh.github.io
+baseurl: /
+
+
+author:
+  name: 'Furqan Shaikh'
+  url: 'https://github.com/furqanshaikh'
+
+paginate: 5
+
+# Custom vars
+version: 2.1.0
+
+github:
+  repo: https://github.com/furqanshaikh/website
