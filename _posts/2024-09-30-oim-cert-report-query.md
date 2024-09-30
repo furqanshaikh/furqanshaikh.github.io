@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Oracle Identity Management (OIM) Certification Query: A Quick Guide
+title: Oracle Identity Management (OIM) Certification Report Query 
 ---
-
-
-# Oracle Identity Management (OIM) Certification Query: A Quick Guide
 
 Oracle Identity Management (OIM) helps organizations manage user access and ensure security through regular certifications. Certification queries allow you to track the progress of user access reviews. Here's a quick breakdown of a certification query in OIM and how it works.
 
