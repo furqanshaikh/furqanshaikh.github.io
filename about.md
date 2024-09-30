@@ -1,30 +1,40 @@
 ---
 layout: page
-title: About
+title: About Me
+---
+### Furqan Shaikh
+**Solutions Architect | Identity Consultant | Java | Spring Boot Expert**
+
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my blog! I'm Furqan Shaikh, a seasoned Solutions Architect and Identity Consultant with over a decade of experience in software engineering, enterprise software, and identity management. I specialize in Java, Spring Boot, and a variety of tools and frameworks that enable businesses to implement robust and scalable identity solutions.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Professional Journey
+I have had the privilege of working with several esteemed organizations:
+- **Solutions Architect** at the General Organization for Social Insurance (GOSI), Riyadh.
+- **Senior Integration Consultant** at Elm Company, Riyadh.
+- **Associate Software Architect** at SS&C Primatics, Karachi.
+- **Senior Software Engineer** at Royal Cyber Inc., Karachi.
+- **Analyst Software Engineer** at Afiniti, Karachi.
 
-There are currently two themes built on Poole:
+Throughout my career, I've led diverse teams and implemented complex integration solutions that align with business needs, focusing on identity and access management (IAM) and enterprise software systems.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Education
+I hold a Master's and Bachelor's degree in Computer Science from the **National University of Computer and Emerging Sciences**, where I actively participated in various tech competitions and projects.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Skills & Expertise
+- **Identity and Access Management (IAM)** using **SailPoint** and **Oracle Identity Manager (OIM)**.
+- **Enterprise Software Development** with **Java**, **Spring Boot**, and **Microservices**.
+- **Cloud Computing** and **Machine Learning** technologies.
 
-## Setup
+### Certifications
+- SailPoint IdentityIQ Implementation: Rules, Scripts, and API.
+- SailPoint IdentityIQ Essentials v8.2.
 
-Some fun facts about the setup of this project include:
+### Interests
+When I'm not working on software solutions, I enjoy exploring new advancements in **AI**, **cloud computing**, and **identity security**. Through my blog, I aim to share my experiences, insights, and learning to help others grow in the field of technology and software engineering.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Feel free to connect with me or check out my **[GitHub page](https://furqanshaikh.github.io)**.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+---
+Thanks for stopping by!
